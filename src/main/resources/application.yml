@@ -1,0 +1,6 @@
+#elasticsearch
+spring:
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: your public host:9300
